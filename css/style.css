@@ -105,7 +105,7 @@ iframe {
 /* HOME
 ------------------------------- */
 .cover-home {
-    background-image: url(../images/cover-home-ss.webp);
+    background-image: url(../images/cover-home-ss.png);
 }
 .about {
     max-width: 736px;
@@ -119,7 +119,7 @@ iframe {
 /* NEWS
 ------------------------------- */
 .cover-news {
-    background-image: url(../images/cover-news-ss.webp);
+    background-image: url(../images/cover-news-ss.png);
 }
 
 /* 記事部分 */
@@ -182,7 +182,7 @@ iframe {
 /* MENU
 ------------------------------- */
 .cover-menu {
-    background-image: url(../images/cover-menu-ss.webp);
+    background-image: url(../images/cover-menu-ss.png);
 }
 .grid {
     display: grid;
@@ -202,7 +202,7 @@ iframe {
 /* CONTACT
 ------------------------------- */
 .cover-contact {
-    background-image: url(../images/cover-contact-ss.webp);
+    background-image: url(../images/cover-contact-ss.png);
 }
 
 /* 店舗情報 */
@@ -245,7 +245,7 @@ iframe {
 /* フッター
 ------------------------------- */
 .page-footer {
-    background-image: url(../images/footer-ss.webp);
+    background-image: url(../images/footer-ss.png);
     background-size: cover;
     background-position: center;
     padding-top: 12rem;
@@ -309,7 +309,7 @@ iframe {
 
     /* HOME */
     .cover-home {
-        background-image: url(../images/cover-home-ll.webp);
+        background-image: url(../images/cover-home-ll.png);
     }
     .about {
         margin: 4rem auto 0;
@@ -317,7 +317,7 @@ iframe {
 
     /* NEWS */
     .cover-news {
-        background-image: url(../images/cover-news-ll.webp);
+        background-image: url(../images/cover-news-ll.png);
     }
     .news-contents {
         display: flex;
@@ -336,7 +336,7 @@ iframe {
 
     /* MENU */
     .cover-menu {
-        background-image: url(../images/cover-menu-ll.webp);
+        background-image: url(../images/cover-menu-ll.png);
     }
     .grid {
         gap: 3rem 2rem;
@@ -351,7 +351,7 @@ iframe {
 
     /* CONTACT */
     .cover-contact {
-        background-image: url(../images/cover-contact-ll.webp);
+        background-image: url(../images/cover-contact-ll.png);
     }
     .location {
         display: flex;
@@ -381,7 +381,7 @@ iframe {
 
     /* フッター */
     .page-footer {
-        background-image: url(../images/footer-l.webp);
+        background-image: url(../images/footer-l.png);
         padding-top: 12rem;
     }
     .info th {
