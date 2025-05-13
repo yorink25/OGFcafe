@@ -52,7 +52,7 @@ img {
     color:#432;
 }
 .main-nav a:hover {
-    color: #0bd   
+    color: #0bd
 }
 
 .page-title {
@@ -349,7 +349,7 @@ iframe{
     }
 
     .cover-contact {
-        background-image: url(../images/cover-contact-ll.png)
+        background-image: url(../images/cover-contact-ll.png);
     }
 
     .location {
