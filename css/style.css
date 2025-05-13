@@ -3,7 +3,7 @@ html {
     font-size:100%;
 }
 body{
- font-family:"Hiragino Kaku Gothc ProN","hiragino Sans", "BIZ UDPGothic", sans-serif; 
+ font-family:"Hiragino Kaku Gothic ProN","hiragino Sans", "BIZ UDPGothic", sans-serif; 
  line-height: 1.7;
  color: #432;
 }
@@ -242,7 +242,7 @@ iframe{
     font-size: .875rem;
 }
 .cover-contact {
-    background-image: url(../images/cover-cotact-ss.png);
+    background-image: url(../images/cover-contact-ss.png);
 }
 
 .location {
@@ -283,7 +283,7 @@ iframe{
     .page-title {
         font-size: 5rem;
      }
-    .headding-large {
+    .heading-large {
         font-size: 4rem;
      }
     .post-title {
@@ -311,7 +311,7 @@ iframe{
      }
 
     .cover-news {
-         background-image: url(../images/covernews-ll.png);
+         background-image: url(../images/cover-news-ll.png);
      }
     .news-contents {
         display: flex;
